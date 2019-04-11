@@ -1,0 +1,7 @@
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\bin\Debug\PR 27.12.2018.exe.config
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\bin\Debug\PR 27.12.2018.exe
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\bin\Debug\PR 27.12.2018.pdb
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\obj\Debug\PR 27.12.2018.csprojAssemblyReference.cache
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\obj\Debug\PR 27.12.2018.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\obj\Debug\PR 27.12.2018.exe
+C:\Users\АдылкановМ.CORP\source\repos\PR 27.12.2018\PR 27.12.2018\obj\Debug\PR 27.12.2018.pdb
